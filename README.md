@@ -9,7 +9,7 @@ Micaelcaldasesiva88/Micaelcaldasesiva88 is a ✨ special ✨ repository because 
 You can click the Preview link to take a look at your changes.
 --->
 Estou interessado em desenvolver soluções contra os ataques rakers 
-Algo deixe mais fácil a identificação de uma invasão 
+Algo que deixe mais fácil a identificação, de uma invasão 
 E que possa ser oferecido de graça para a população 
-Penso em algo do tipo que ao olhar a gente já possa 
-Identificar.
+Penso em algo do tipo que, ao olhar a gente já possa 
+Identificar de onde foi feita a invasão.
